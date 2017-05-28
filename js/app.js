@@ -1,5 +1,4 @@
 var res = document.getElementById("result");
-var ans = 0;
 
 function update(x) {
     res.innerHTML += x;
