@@ -1,4 +1,4 @@
 # web-app-calculator
 A simple calculator made using HTML, CSS, JavaScript
-![1](1.PNG)
-![2](2.PNG)
+![1](https://github.com/ashishtrivedi16/web-app-calculator/blob/master/1.png)
+![2](https://github.com/ashishtrivedi16/web-app-calculator/blob/master/2.png)
